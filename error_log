@@ -1,0 +1,24 @@
+[24-Apr-2026 22:33:50 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.0". You are running 8.2.30. in /home/deyvi4910/tiagosilvapersonal.com.br/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/deyvi4910/tiagosilvapersonal.com.br/vendor/composer/autoload_real.php(25): require()
+#1 /home/deyvi4910/tiagosilvapersonal.com.br/vendor/autoload.php(22): ComposerAutoloaderInitc57754c93ae34ac3b9b716a0fd2f2149::getLoader()
+#2 /home/deyvi4910/tiagosilvapersonal.com.br/artisan(10): require('/home/deyvi4910...')
+#3 {main}
+  thrown in /home/deyvi4910/tiagosilvapersonal.com.br/vendor/composer/platform_check.php on line 22
+[24-Apr-2026 22:34:10 America/Sao_Paulo] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.0". You are running 8.2.30. in /home/deyvi4910/tiagosilvapersonal.com.br/vendor/composer/platform_check.php:22
+Stack trace:
+#0 /home/deyvi4910/tiagosilvapersonal.com.br/vendor/composer/autoload_real.php(25): require()
+#1 /home/deyvi4910/tiagosilvapersonal.com.br/vendor/autoload.php(22): ComposerAutoloaderInitc57754c93ae34ac3b9b716a0fd2f2149::getLoader()
+#2 /home/deyvi4910/tiagosilvapersonal.com.br/artisan(10): require('/home/deyvi4910...')
+#3 {main}
+  thrown in /home/deyvi4910/tiagosilvapersonal.com.br/vendor/composer/platform_check.php on line 22
+[25-Apr-2026 01:36:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 01:36:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 01:36:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 01:47:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 02:00:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 02:00:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 02:00:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 02:00:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 02:00:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Apr-2026 02:12:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
